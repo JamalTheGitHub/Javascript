@@ -1,9 +1,8 @@
 # Introduction
 
 ## Fundamentals
-<strong>
+
         console.log("This is a string");
-</strong>
         This will create a log within the console section of a website once inspected.
 
         alert("This is a string");

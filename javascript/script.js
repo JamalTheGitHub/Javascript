@@ -3,3 +3,18 @@
 
 console.log("This is the console section!")
 alert("Hello World!");
+
+let message;
+message = "I am assigned to the variable message";
+alert(message);
+
+let numbers;
+numbers = [1,2,3,4,5];
+alert(numbers);
+
+numbers = "Nothing";
+console.log(numbers);
+
+name = "John";
+admin = name;
+console.log(admin);
